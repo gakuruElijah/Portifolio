@@ -239,8 +239,8 @@ Found a bug or want to suggest an improvement? Feel free to:
 
 If you need help setting up your portfolio:
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/portfolio/issues)
+- 📧 Email: elijahgakuru250@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/gakuruElijah/Portifolio/issues)
 
 ## 🙏 Acknowledgments
 
